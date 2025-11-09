@@ -14,4 +14,4 @@
 
 ### API Endpoints
 - `GET /` — Checks if the server running
-- `GET /generateAnime"` — Generates single anime face each time the GET request is sent
+- `GET /generateAnime"` — Generates single anime face each time the GET request is sent.
